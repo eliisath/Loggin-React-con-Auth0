@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Loggin-React-con-Auth0/static/css/main.241951ba.css",
-    "main.js": "/Loggin-React-con-Auth0/static/js/main.566a87a2.js",
+    "main.js": "/Loggin-React-con-Auth0/static/js/main.8d2260b6.js",
     "index.html": "/Loggin-React-con-Auth0/index.html",
     "main.241951ba.css.map": "/Loggin-React-con-Auth0/static/css/main.241951ba.css.map",
-    "main.566a87a2.js.map": "/Loggin-React-con-Auth0/static/js/main.566a87a2.js.map"
+    "main.8d2260b6.js.map": "/Loggin-React-con-Auth0/static/js/main.8d2260b6.js.map"
   },
   "entrypoints": [
     "static/css/main.241951ba.css",
-    "static/js/main.566a87a2.js"
+    "static/js/main.8d2260b6.js"
   ]
 }
