@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/eliisath/Loggin-React-con-Auth0/static/css/main.241951ba.css",
-    "main.js": "/eliisath/Loggin-React-con-Auth0/static/js/main.566a87a2.js",
-    "index.html": "/eliisath/Loggin-React-con-Auth0/index.html",
-    "main.241951ba.css.map": "/eliisath/Loggin-React-con-Auth0/static/css/main.241951ba.css.map",
-    "main.566a87a2.js.map": "/eliisath/Loggin-React-con-Auth0/static/js/main.566a87a2.js.map"
+    "main.css": "/Loggin-React-con-Auth0/static/css/main.241951ba.css",
+    "main.js": "/Loggin-React-con-Auth0/static/js/main.566a87a2.js",
+    "index.html": "/Loggin-React-con-Auth0/index.html",
+    "main.241951ba.css.map": "/Loggin-React-con-Auth0/static/css/main.241951ba.css.map",
+    "main.566a87a2.js.map": "/Loggin-React-con-Auth0/static/js/main.566a87a2.js.map"
   },
   "entrypoints": [
     "static/css/main.241951ba.css",
